@@ -1,0 +1,8 @@
+sudo
+wget
+curl
+git
+bash-completion
+apt-utils
+python3-dev
+net-tools
